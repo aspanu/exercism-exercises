@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DiffieHellmanTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-01T21:06:59" hostname="shadow.local" time="0.018">
+  <properties/>
+  <testcase name="private key is random" classname="DiffieHellmanTest" time="0.016"/>
+  <testcase name="private key is in range from 1 to prime" classname="DiffieHellmanTest" time="0.001"/>
+  <testcase name="calculate public key using private key" classname="DiffieHellmanTest" time="0.001"/>
+  <testcase name="calculate secret using other party's public key" classname="DiffieHellmanTest" time="0.0"/>
+  <testcase name="key exchange" classname="DiffieHellmanTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
